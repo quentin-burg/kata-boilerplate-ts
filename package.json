@@ -10,7 +10,7 @@
     "start": "ts-node index.ts"
   },
   "author": "Quentin Burg",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "fast-check": "^3.3.0",
     "jest": "^29.2.2",
